@@ -1,0 +1,1 @@
+export default function Home(){return (<div style={{textAlign:'center', padding:'4rem'}}><h1>SilkyRoad Marketplace</h1><p>Deployed build with email + refund workflow.</p></div>)}

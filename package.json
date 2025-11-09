@@ -1,6 +1,5 @@
-
 {
-  "name": "silkyroad-marketplace",
+  "name": "silkyroad-marketplace-full",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
