@@ -1,1 +1,0 @@
-export default function Header(){return(<header><h1>Silky Road</h1></header>);}
